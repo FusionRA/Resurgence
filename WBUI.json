@@ -16,7 +16,7 @@
         {
           "tab1": {
             "layout": 1,
-            "buttontext": "<RichColor Color=\"0,3,255,1\">Home</>",
+            "buttontext": "<RichColor Color=\"0,0,1,1\">Home</>",
             "title1": "<TextStyle.Blue>Welcome To Resurgence</>",
             "text1": "Resurgence",
             "imageurl": "https://imgur.com/gallery/r3qxfHy"
