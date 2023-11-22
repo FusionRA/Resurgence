@@ -1,0 +1,35 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": true,
+        "HideIconAfter": 30,
+        "IconURL": "https://imgur.com/a/2uiTEba",
+        "DisableIconText": false,
+        "IconPosition": 0,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+      "tabs": [
+        {
+          "tab1": {
+            "layout": 1,
+            "buttontext": "<RichColor Color=\"0,3,255,1\">Home</>",
+            "title1": "<TextStyle.Blue>Welcome To Resurgence</>",
+            "text1": "Resurgence",
+            "imageurl": "https://imgur.com/a/2uiTEba"
+          }
+        }
+      ],
+      "links": [
+        {
+          "link1": {
+            "text": "Discord",
+            "url": "https://discord.gg/furJuGuHMy"
+          }
+        }
+      ]
+    }
+}
